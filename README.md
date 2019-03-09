@@ -1,6 +1,8 @@
 # Effect-of-Overtime-Causal-Analytics
 
-I analyzed the causal effect of working overtime on attrition for a sample of IBM employees. The results of
+Organizations are concerned about employees leaving them because employee turnover is expensive. A 2012 article by the Centre for American Progress has identified that the average cost of replacing an employee is 21% of their annual salary. This is estimated based on the cost of recruiting a new employee, his/her training, and the time it takes to bring him/her up to speed. In addition, the organization loses valuable knowledge that the employee had acquired during his/her tenure, the value of which is not estimable easily.
+
+In this project, I analyzed the causal effect of working overtime on attrition for a sample of IBM employees. The results of
 of my analysis is summarized below:
 
 1. I observed that working overtime increases the propensity of an employee to attrite by 19.7%
