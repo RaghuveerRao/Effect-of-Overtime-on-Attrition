@@ -1,4 +1,4 @@
-# Causal effect on working overtime on employ attrition
+# Causal effect of working overtime on employ attrition
 
 Organizations are concerned about employees leaving them because employee turnover is expensive. A 2012 article by the Centre for American Progress has identified that the average cost of replacing an employee is 21% of their annual salary. This is estimated based on the cost of recruiting a new employee, his/her training, and the time it takes to bring him/her up to speed. In addition, the organization loses valuable knowledge that the employee had acquired during his/her tenure, the value of which is not estimable easily.
 
