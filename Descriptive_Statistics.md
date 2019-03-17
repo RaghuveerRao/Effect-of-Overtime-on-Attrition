@@ -1,8 +1,7 @@
 Descriptive Statistics
 ================
 
-Loading the required R packages
-===============================
+
 
 ``` r
 suppressPackageStartupMessages({
