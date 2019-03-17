@@ -4,7 +4,7 @@
 
 ## Index
 * [Presentation](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Presentation.pdf)
-* [Original data set is available on Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset )
+* [Data set from Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset )
 * [Descriptive Statistics](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Descriptive_Statistics.md)
 * [Causal Inference Analysis](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Causal_Inference.md)
 
